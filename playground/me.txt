@@ -1,0 +1,5 @@
+{{#user}}
+Name: Shivam
+Skills: HTML, CSS, JS, Next.js
+Email: kingshivam854@gmail.com
+{{/user}}
